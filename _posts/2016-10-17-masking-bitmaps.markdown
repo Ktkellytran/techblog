@@ -6,6 +6,8 @@ date:   2016-10-17
 categories: Android
 excerpt: In this article, I would like to analyse the tools available for Android developers which can be used to complete such tasks — and choose the most efficient of them.
 ---
+<img class="no-box-shadow" src="{{page.imgdir}}/1.png"/>
+
 The problem of image masking often comes up in Android development. Rounded image corners or rounded images are required most of all. Yet sometimes even more complex image masks are used.
 
 In this article, I would like to analyse the tools available for Android developers which can be used to complete such tasks — and choose the most efficient of them.
